@@ -6,6 +6,15 @@ Create & Deploy a simple Pet Shop app to the blockchain!
 
 From this turtorial: https://trufflesuite.com/boxes/pet-shop/
 
+## In-App Pictures:
+
+![image](https://user-images.githubusercontent.com/62218708/188357758-2ca71bd6-337f-45ea-9441-dad57289ee4f.png)
+
+
+![image](https://user-images.githubusercontent.com/62218708/188357779-490e103a-68a0-4ab8-b5aa-eec276bf5034.png)
+
+
+
 # Installation
 
 Follow this:
