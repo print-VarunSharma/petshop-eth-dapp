@@ -1,4 +1,4 @@
-# TODO Smart Contract App
+# Petshop Eth DApp
 
 ## Summary
 
